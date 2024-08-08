@@ -3,7 +3,7 @@
 ## Description
 50 people – 3D scanning face data. The collection scene is indoor. The data covers males and females. The age distribution ranges from youth to old age, mainly young and middle-aged. The collection device is a special scanner. The data can be used for tasks such as 3D face recognition, 3D face modeling, etc.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1266?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1266?source=Github
 
 
 ## Data size
